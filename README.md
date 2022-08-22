@@ -13,19 +13,19 @@
 <details align="center">
 <summary></summary>
 
-:small_blue_diamond: Actualmente estoy en constante aprendizaje de <strong>[desarrollo]</strong> y <strong>[diseño web]</strong>. :small_blue_diamond:
+:small_blue_diamond: Currently, I'm going onto a non-stop learning process of <strong>[web development]</strong> and <strong>[design]</strong>. :small_blue_diamond:
 
-:small_blue_diamond: Incursionando también en nuevas tecnologías para ampliar mi espectro. :small_blue_diamond:
+:small_blue_diamond: Also dabbling in new technologies to broaden my spectrum. :small_blue_diamond:
 
-:small_blue_diamond: Estoy buscando colaborar en todo tipo de proyectos. :small_blue_diamond:
+:small_blue_diamond: I'm eager to collaborate in all kinds of projects. :small_blue_diamond:
 
-:small_blue_diamond: Pregúntame sobre <b>[HTML]</b>, <b>[CSS]</b>, <b>[Sass]</b>, <b>[Bootstrap]</b>, <b>[JavaScript]</b> y <b>[React Js]</b>. :small_blue_diamond:
+:small_blue_diamond: You can always ask me about... <b>[HTML]</b>, <b>[CSS]</b>, <b>[Sass]</b>, <b>[Bootstrap]</b>, <b>[JavaScript]</b> y <b>[React Js]</b>. :small_blue_diamond:
 
-:small_blue_diamond: Dato curioso: Me gusta pensar que soy un panquecito de canela. :small_blue_diamond:
+:small_blue_diamond: Fun fact: I usually drink more tea than coffee while working on my laptop. :small_blue_diamond:
 
 </details>
 
-<h2 align="center">YOU CAN FIND ME ON </h2>
+<h2 align="center">FIND ME ON </h2>
 <details align="center">
 <summary></summary>
 
@@ -33,12 +33,12 @@
 
 </details>
 
-<div align="center">
-<h2>FROM</h2>
 
-<b>[Lautaro Vaz]</b>
 
-</div>
+
+### <b>By [Lautaro Vaz]</b>
+
+
 
 [//]: # 'IMAGENES'
 [visualstudiocode-]: https://img.icons8.com/color/48/000000/visual-studio-code-2019.png
@@ -56,18 +56,18 @@
 [ps-]: https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png
 [ai-]: https://img.icons8.com/color/50/000000/adobe-illustrator--v1.png
 [facebook-]: https://img.icons8.com/fluency/48/000000/facebook.png
-[perfil-]: https://i.ibb.co/s1d78t0/Desarrollador-Front-End-1.gif
+[perfil-]: https://i.ibb.co/f0PvQk4/perfilgh.gif
 
 [//]: # 'LINKS'
 [visualstudiocode]: https://code.visualstudio.com/
 [github]: https://github.com/
 [Lautaro Vaz]: https://github.com/LautaroCODE
 [git]: https://git-scm.com/
-[html]: https://developer.mozilla.org/es/docs/Web/HTML
-[css]: https://developer.mozilla.org/es/docs/Web/CSS
+[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[css]: https://developer.mozilla.org/en-US/docs/Web/css
 [bootstrap]: https://getbootstrap.com/
 [sass]: https://sass-lang.com/
-[javascript]: https://developer.mozilla.org/es/docs/Web/JavaScript
+[javascript]: https://developer.mozilla.org/en-US/docs/Web/javascript
 [react js]: https://es.reactjs.org/
 [linkedin]: https://www.linkedin.com/in/lautaro-vaz/
 [facebook]: https://www.facebook.com/lautaro.vaz.3
@@ -75,6 +75,5 @@
 [ps]: https://www.adobe.com/ar/products/photoshop.html
 [ai]: https://www.adobe.com/ar/products/illustrator.html
 [outlook]: mailto:lautaro.vaz@outlook.com?Subject=I%20contact%20you%20from%20GitHub%20to..&body=Write%20your%20message%20here..
-[desarrollo web]: https://es.wikipedia.org/wiki/Desarrollo_web
-[desarrollo]: https://es.wikipedia.org/wiki/Desarrollo_web
-[diseño web]: https://es.wikipedia.org/wiki/Dise%C3%B1o_web
+[web development]: https://es.wikipedia.org/wiki/Desarrollo_web
+[design]: https://es.wikipedia.org/wiki/Dise%C3%B1o_web
