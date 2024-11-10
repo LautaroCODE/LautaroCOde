@@ -74,6 +74,6 @@
 [instagram]: https://www.instagram.com/lautarovaz/
 [ps]: https://www.adobe.com/ar/products/photoshop.html
 [ai]: https://www.adobe.com/ar/products/illustrator.html
-[outlook]: mailto:lautaro.vaz@outlook.com?Subject=I%20contact%20you%20from%20GitHub%20to..&body=Write%20your%20message%20here..
+[outlook]: mailto:lautaro.vaz@outlook.es?Subject=I%20contact%20you%20from%20GitHub%20to..&body=Write%20your%20message%20here..
 [web development]: https://es.wikipedia.org/wiki/Desarrollo_web
 [design]: https://es.wikipedia.org/wiki/Dise%C3%B1o_web
